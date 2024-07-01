@@ -10,3 +10,4 @@
 # 10.kosaraju algorithm.
 # 11.three consecutive odd
 # 12.minimum no. of vertices to reach all nodes.(min_no_vertex)
+# 13.keys and rooms
