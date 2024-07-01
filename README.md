@@ -7,3 +7,4 @@
 # 7.Dijkstra algorithm
 # 8.Bellmanford algorithm
 # 9.Prims algorithm.
+# 10.kosaraju algorithm.
