@@ -8,3 +8,4 @@
 # 8.Bellmanford algorithm
 # 9.Prims algorithm.
 # 10.kosaraju algorithm.
+# 11.three consecutive odd
