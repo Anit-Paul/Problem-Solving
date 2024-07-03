@@ -13,3 +13,4 @@
 # 13.keys and rooms
 # 14.Intersection of two arrays.
 # 15.Rat in maze problem.
+# 16.leetcode 2616 (minimize the maximum differences of pair)
