@@ -15,3 +15,4 @@
 # 15.Rat in maze problem.
 # 16.leetcode 2616 (minimize the maximum differences of pair)
 # 17.Remove all occurences of duplicates in a linked list(GFG)
+# 18.Sort 0s, 1s and 2s(Dutch national flag algorithm)
