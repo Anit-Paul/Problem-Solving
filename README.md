@@ -14,3 +14,4 @@
 # 14.Intersection of two arrays.
 # 15.Rat in maze problem.
 # 16.leetcode 2616 (minimize the maximum differences of pair)
+# 17.Remove all occurences of duplicates in a linked list(GFG)
