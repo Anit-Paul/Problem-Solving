@@ -17,3 +17,4 @@
 # 17.Remove all occurences of duplicates in a linked list(GFG)
 # 18.Sort 0s, 1s and 2s(Dutch national flag algorithm)
 # 19.kadane's algorithm
+# 20.minimize the heights II
