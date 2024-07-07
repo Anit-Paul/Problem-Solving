@@ -22,3 +22,4 @@
 # 22. merge two sorted array without using any extra space.
 # 23.overlapping Intervals.
 # 24. Next Permutation.
+# 25.Count Inversions.
