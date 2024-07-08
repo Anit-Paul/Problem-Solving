@@ -23,3 +23,4 @@
 # 23.overlapping Intervals.
 # 24. Next Permutation.
 # 25.Count Inversions.
+# 26.stock_buy_and_sell.
