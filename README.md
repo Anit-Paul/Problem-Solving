@@ -27,3 +27,4 @@
 # 27.count_pairs_with_given_sum.
 # 28.subarray_with_sum_0.
 # 29.factorial of large numbers.
+# 30.maximum product subarray.
