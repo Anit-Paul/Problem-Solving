@@ -30,3 +30,4 @@
 # 30.maximum product subarray.
 # 31.Count More than n/k Occurences
 # 32.trapping rain water.
+# 33.smallest subarray with sum greater than x.
