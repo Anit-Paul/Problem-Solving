@@ -29,3 +29,4 @@
 # 29.factorial of large numbers.
 # 30.maximum product subarray.
 # 31.Count More than n/k Occurences
+# 32.trapping rain water.
