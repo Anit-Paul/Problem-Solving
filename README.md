@@ -33,3 +33,4 @@
 # 33.smallest subarray with sum greater than x.
 # 34.three_way_partitioning.
 # 35.median of 2 sorted array.
+# 36.rearrange_array_alternately
