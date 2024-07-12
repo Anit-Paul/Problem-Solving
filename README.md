@@ -36,3 +36,4 @@
 # 36.rearrange_array_alternately
 # 37.second max of an array with O(n) complexity.
 # 38.spiral traversal of a matrix.
+# 39.permutations of a given string.
