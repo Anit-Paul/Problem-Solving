@@ -35,3 +35,4 @@
 # 35.median of 2 sorted array.
 # 36.rearrange_array_alternately
 # 37.second max of an array with O(n) complexity.
+# 38.spiral traversal of a matrix.
