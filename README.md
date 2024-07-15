@@ -42,3 +42,4 @@
 # 42.binary_tree_level_order_traversal
 # 43.postorder traversal using stack
 # 44.balanced binary tree
+# 45.diameter of a binary tree.
