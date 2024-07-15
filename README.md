@@ -44,3 +44,4 @@
 # 44.balanced binary tree
 # 45.diameter of a binary tree.
 # 46.binary tree maximum path sum.
+# 47.same tree
