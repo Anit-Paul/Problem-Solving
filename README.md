@@ -47,3 +47,4 @@
 # 47.same tree
 # 48.tree boundary traversal
 # 49.vertical order traversal of a binary tree.
+# 50.top view of binary tree.
