@@ -50,3 +50,4 @@
 # 50.top view of binary tree.
 # 51.bottom view of a binary tree.
 # 52.Binary Tree Right Side View.
+# 53.symmetric Tree.
