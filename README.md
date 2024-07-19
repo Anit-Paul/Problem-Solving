@@ -58,3 +58,4 @@
 # 58. Construct Binary Tree from Preorder and Inorder Traversal
 # 59.construct_binary_tree_from_inorder_and_postorder
 # 60.all nodes distance k in a binary tree
+# 61.Burning Tree
