@@ -66,3 +66,4 @@
 # 66.validate bst
 # 67.BST search,delete,insert,inorder
 # 68.kth smallest element in bst without using extra space
+# 69.Two sum in bst.
