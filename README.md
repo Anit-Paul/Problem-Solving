@@ -67,3 +67,4 @@
 # 67.BST search,delete,insert,inorder
 # 68.kth smallest element in bst without using extra space
 # 69.Two sum in bst.
+# 70.subarray sum equals k
