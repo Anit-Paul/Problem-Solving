@@ -64,3 +64,4 @@
 # 64.Moris preorder Traversal.
 # 65.Flatten binary tree to linked list
 # 66.validate bst
+# 67.BST search,delete,insert,inorder
