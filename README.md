@@ -69,3 +69,4 @@
 # 69.Two sum in bst.
 # 70.subarray sum equals k
 # 71.largest bst
+# 72.recover bst
