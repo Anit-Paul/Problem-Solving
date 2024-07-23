@@ -75,3 +75,4 @@
 # 75.palindrome linked list
 # 76.odd even linkedlist
 # 77.remove nth node from the end of a list
+# 79.delete the middle of a linkedlist
