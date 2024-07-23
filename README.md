@@ -74,3 +74,4 @@
 # 74. cycle's tail in a linked list
 # 75.palindrome linked list
 # 76.odd even linkedlist
+# 77.remove nth node from the end of a list
