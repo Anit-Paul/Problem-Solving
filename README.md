@@ -73,3 +73,4 @@
 # 73.reverse a Linked list 
 # 74. cycle's tail in a linked list
 # 75.palindrome linked list
+# 76.odd even linkedlist
