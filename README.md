@@ -70,3 +70,4 @@
 # 70.subarray sum equals k
 # 71.largest bst
 # 72.recover bst
+# 73.reverse a Linked list 
