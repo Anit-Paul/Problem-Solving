@@ -75,6 +75,7 @@
 # 75.palindrome linked list
 # 76.odd even linkedlist
 # 77.remove nth node from the end of a list
-# 79.delete the middle of a linkedlist
-# 80.sort a linked list
-# 81.Insertion of 2 linked list
+# 78.delete the middle of a linkedlist
+# 79.sort a linked list
+# 80.Insertion of 2 linked list
+# 81.add 1 in a linked list
