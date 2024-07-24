@@ -82,3 +82,4 @@
 # 82.add 2 numbers in a linked list
 # 83.Delete all occurrences of a given key in a doubly linked list
 # 84.Find pairs with given sum in doubly linked list
+# 85.Remove duplicates from a sorted doubly linked list
