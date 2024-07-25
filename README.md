@@ -84,3 +84,4 @@
 # 84.Find pairs with given sum in doubly linked list
 # 85.Remove duplicates from a sorted doubly linked list
 # 86.swap nodes in a linked list
+# 87.reverse nodes in k group.
