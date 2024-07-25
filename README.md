@@ -83,3 +83,4 @@
 # 83.Delete all occurrences of a given key in a doubly linked list
 # 84.Find pairs with given sum in doubly linked list
 # 85.Remove duplicates from a sorted doubly linked list
+# 86.swap nodes in a linked list
