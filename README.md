@@ -89,3 +89,4 @@
 # 89.clone list with random pointer
 # 90.merge k sorted list
 # 91.delete node having greater value on right
+# 92.remove duplicates from a sorted list
