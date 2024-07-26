@@ -86,3 +86,4 @@
 # 86.swap nodes in a linked list
 # 87.reverse nodes in k group.
 # 88.rotate a linked list
+# 89.clone list with random pointer
