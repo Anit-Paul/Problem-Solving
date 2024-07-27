@@ -92,3 +92,4 @@
 # 92.remove duplicates from a sorted list
 # 93.minimum time to convert a string
 # 94.Longest Consecutive Sequence
+# 95.binary search in 2d array
