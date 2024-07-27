@@ -91,3 +91,4 @@
 # 91.delete node having greater value on right
 # 92.remove duplicates from a sorted list
 # 93.minimum time to convert a string
+# 94.Longest Consecutive Sequence
