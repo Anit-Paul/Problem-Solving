@@ -115,3 +115,4 @@
 # 115.Disjoint set
 # 116.kruskal algorithm using disjoint set
 # 117.Word search problem
+# 118.N Queen problem
