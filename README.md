@@ -119,3 +119,4 @@
 # 119.M coloring problem
 # 120. Suduku solver
 # 121. Infix to Postfix conversion using stack
+# 122.Infix to prefix conversion
