@@ -124,3 +124,4 @@
 # 124.Largest rectangle in a Histogram
 # 125.Maximal Rectange in a matrix
 # 126.House robber problem
+# 127.Check if ith bit is set or not
