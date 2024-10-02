@@ -127,3 +127,4 @@
 # 127.Check if ith bit is set or not
 # 128.Check if a number is power of 2 or not
 # 129.divide two integers without using multiplication, division, and mod operator.
+# 130.Subsets of an array using bit manipulation.
