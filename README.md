@@ -129,3 +129,4 @@
 # 129.divide two integers without using multiplication, division, and mod operator.
 # 130.Subsets of an array using bit manipulation.
 # 131.Prime factors of a number in O(n) complexity.(prime_factors.py)
+# 132.Count Primes(Sieve of Eratosthenes)
